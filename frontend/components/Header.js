@@ -59,7 +59,10 @@ const Header = () => (
     <div className="bar">
       <Logo>
         <Link href="/">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61vYIuu-BJazQPArcLqXXnGuPE_33ZN01qLXQqDAqMxawENnu" />
+          <img
+            style={{ width: "300px", height: "50px" }}
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61vYIuu-BJazQPArcLqXXnGuPE_33ZN01qLXQqDAqMxawENnu"
+          />
         </Link>
       </Logo>
       <Nav />
