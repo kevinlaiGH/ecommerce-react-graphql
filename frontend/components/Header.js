@@ -60,8 +60,8 @@ const Header = () => (
       <Logo>
         <Link href="/">
           <img
-            style={{ width: "300px", height: "50px" }}
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61vYIuu-BJazQPArcLqXXnGuPE_33ZN01qLXQqDAqMxawENnu"
+            // style={{ width: "300px", height: "50px" }}
+            src="./general-ants.png"
           />
         </Link>
       </Logo>
