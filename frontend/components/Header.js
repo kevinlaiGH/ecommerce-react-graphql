@@ -60,8 +60,8 @@ const Header = () => (
       <Logo>
         <Link href="/">
           <img
-            style={{ width: "500px", height: "500x" }}
-            src="https://raw.githubusercontent.com/kevinlaiGH/ecommerce-react-graphql/master/frontend/components/GENERAL-ANTS-CO.png"
+            style={{ width: "250px", height: "500x" }}
+            src="https://raw.githubusercontent.com/kevinlaiGH/ecommerce-react-graphql/master/frontend/components/general-ants.png"
           />
         </Link>
       </Logo>

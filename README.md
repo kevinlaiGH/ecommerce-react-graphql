@@ -10,8 +10,8 @@ In addition, I've wanted to build a fully-functioning E-commerce website with pa
 
 ## **Technology**
 
-![Image of Yaktocat](https://github.com/kevinlaiGH/ecommerce-react-graphql/blob/master/pic1.png)
-![Image of Yaktocat](https://github.com/kevinlaiGH/ecommerce-react-graphql/blob/master/pic2.png)
+![Image of Yaktocat](https://github.com/kevinlaiGH/ecommerce-react-graphql/blob/master/frontendA.png)
+![Image of Yaktocat](https://github.com/kevinlaiGH/ecommerce-react-graphql/blob/master/frontendB.png)
 ### **Frontend**
 
 - Next.js: Server-side rendering, application routing, and tooling (built on Webpack) <br />
