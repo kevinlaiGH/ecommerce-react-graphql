@@ -1,10 +1,10 @@
 # **E-commerce Apparel Store feat. React & GraphQL**
 
-A sample e-commerce store, 'General Pants Co', that allows users to sign-up, add/edit/remove items to the store, and even check-out items with a (test-mode) credit card purchase.
+A sample e-commerce store, 'General Ants Co', that allows users to sign-up, add/edit/remove items to the store, and even check-out items with a (test-mode) credit card purchase.
 
 ## **Motivation**
 
-General Pants Co is an opportunity to learn more about React, GraphQL and a host of other modern technologies (listed below) to stay on the cutting edge of web development.
+General Ants Co is an opportunity to learn more about React, GraphQL and a host of other modern technologies (listed below) to stay on the cutting edge of web development.
 In addition, I've wanted to build a fully-functioning E-commerce website with payment processing and an email server to improve my back-end skills.
 
 
